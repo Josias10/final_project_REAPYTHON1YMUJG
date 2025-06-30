@@ -70,7 +70,7 @@ No telp : 082213617924
 - Aplikasi membutuhkan koneksi internet untuk mengakses layanan AI
 
 ## 🔑 Tips Penggunaan
-1. Masukkan API Key terlebih dahulu
+1. Masukkan API Key terlebih dahulu  
    ![image](https://github.com/user-attachments/assets/642f9185-8110-4f6e-9efe-78934ae544ae)
 
 3. Berikan deskripsi produk yang lengkap dan detail, serta rentang usia yang spesifik untuk hasil yang lebih tepat sasaran, Sesuaikan platform dengan target market produk Anda, lalu gunakan hasil caption sebagai dasar dan sesuaikan dengan kebutuhan spesifik
