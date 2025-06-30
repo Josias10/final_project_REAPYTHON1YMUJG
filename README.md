@@ -79,5 +79,5 @@ link apps : https://caption-umkm-generator-ai.streamlit.app/
 ## 👨‍💻 Developer
 
 **Josias Marchellino Pakpahan**  
-Email: josiaspkphn@gmail.com
+Email: josiaspkphn@gmail.com  
 No telp : 082213617924
