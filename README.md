@@ -57,19 +57,8 @@ link apps : https://caption-umkm-generator-ai.streamlit.app/
 - Koneksi internet stabil
 - API Key OpenRouter yang valid
 
-## 👨‍💻 Developer
+## 🔑 Tips Penggunaan Apps
 
-**Josias Marchellino Pakpahan**  
-Email: josiaspkphn@gmail.com
-No telp : 082213617924
-
-## 📝 Catatan
-
-- Pastikan API Key yang digunakan valid dan masih aktif
-- Semakin detail deskripsi produk yang diberikan, semakin baik hasil caption yang dihasilkan
-- Aplikasi membutuhkan koneksi internet untuk mengakses layanan AI
-
-## 🔑 Tips Penggunaan
 1. Masukkan API Key terlebih dahulu  
    ![image](https://github.com/user-attachments/assets/642f9185-8110-4f6e-9efe-78934ae544ae)
 
@@ -79,3 +68,16 @@ No telp : 082213617924
 4. Klik 'Generate Caption Button' lalu periksa halaman 'hasil', maka caption akan dibuat dan ditampilkan oleh AI
    ![image](https://github.com/user-attachments/assets/4c1626ea-9f1e-4b55-8c23-03909369f912)
    ![image](https://github.com/user-attachments/assets/2e76c821-b087-47ab-b511-792bb26eb28b)
+
+## 📝 Catatan
+
+- Pastikan API Key yang digunakan valid dan masih aktif
+- Semakin detail deskripsi produk yang diberikan, semakin baik hasil caption yang dihasilkan
+- Aplikasi membutuhkan koneksi internet untuk mengakses layanan AI
+
+
+## 👨‍💻 Developer
+
+**Josias Marchellino Pakpahan**  
+Email: josiaspkphn@gmail.com
+No telp : 082213617924
